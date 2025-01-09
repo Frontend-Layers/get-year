@@ -1,0 +1,14 @@
+{
+  "name": "get-year",
+  "version": "1.0.0",
+  "description": "Add current year directly from CDN script",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Frontend Layers",
+  "license": "MIT",
+  "keywords": [
+    "current year"
+  ]
+}
